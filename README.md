@@ -19,6 +19,14 @@
 <img src="https://github.com/Berkayyolcu/Asp.Net-Core-5.0-ile-Web-Gelistirme/blob/main/screenshot/Deneyimim.PNG" width="auto">
 <br>
 
+<img src="https://github.com/Berkayyolcu/Asp.Net-Core-5.0-ile-Web-Gelistirme/blob/main/screenshot/Referanslarım.PNG" width="auto">
+<br>
+
+<img src="https://github.com/Berkayyolcu/Asp.Net-Core-5.0-ile-Web-Gelistirme/blob/main/screenshot/İletişim.PNG" width="auto">
+<br>
+
+<img src="https://github.com/Berkayyolcu/Asp.Net-Core-5.0-ile-Web-Gelistirme/blob/main/screenshot/Footer.PNG" width="auto">
+<br>
 
 
 

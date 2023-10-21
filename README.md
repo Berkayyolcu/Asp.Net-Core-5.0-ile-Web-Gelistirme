@@ -1,1 +1,1 @@
-# Asp.Net-Core-5.0-ile-Web-Gelistirme
+ Asp.Net-Core-5.0-ile-Web-Gelistirme

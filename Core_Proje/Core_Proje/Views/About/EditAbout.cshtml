@@ -1,0 +1,67 @@
+﻿@model EntityLayer.Concrete.About
+
+@{
+    ViewData["Title"] = "EditAbout";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("EditAbout", "About", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h3 class="card-title">Hakkımda Bilgi Güncelleme Sayfası</h3>
+                <form class="form-group" method="post">
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Hakkımda Id</label>
+                        @Html.HiddenFor(x=> x.AboutID,new{@class="form-control" })
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Başlık</label>
+                        @Html.TextBoxFor(x => x.Title,new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleTextarea1">Acıklama</label>
+                        @Html.TextAreaFor(x => x.Description,4,6, new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Yas</label>
+                        @Html.TextBoxFor(x => x.Age,new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Mail</label>
+                        @Html.TextBoxFor(x => x.Mail,new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Telefon</label>
+                        @Html.TextBoxFor(x => x.Phone,new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Adres</label>
+                        @Html.TextBoxFor(x => x.Address,new{@class="form-control"})
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Resim Yükle</label>
+                        @Html.TextBoxFor(x => x.ImageUrl,new{@class="form-control"})
+                    </div>
+
+
+                    <button class="btn btn-outline-success mr-2">Güncelle</button>
+                   
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+}
+

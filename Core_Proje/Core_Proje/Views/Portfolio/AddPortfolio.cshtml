@@ -1,0 +1,57 @@
+﻿@model EntityLayer.Concrete.Portfolio
+
+@{
+    ViewData["Title"] = "AddPortfolio";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+
+            <h3 class="card-title">Proje Ekleme Sayfası</h3>
+
+            <form class="form-group" method="post">
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Proje Adı</label>
+                    <input type="text" class="form-control" name="Name" id="exampleInputName1" placeholder="proje adı">
+                    @Html.ValidationMessageFor(x=>x.Name)
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Resim Linki 1</label>
+                    <input type="text" class="form-control" name="ImageUrl" id="exampleInputName1" placeholder="resim 1">
+                    @Html.ValidationMessageFor(x=>x.ImageUrl)
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Resim Linki 2</label>
+                    <input type="text" class="form-control" name="ImageUrl2" id="exampleInputEmail3" placeholder="resim 2">
+                    @Html.ValidationMessageFor(x=>x.ImageUrl2)
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Proje Linki</label>
+                    <input type="text" class="form-control" name="ProjeUrl" id="exampleInputEmail3" placeholder="proje linki">
+                    @Html.ValidationMessageFor(x=>x.ProjeUrl)
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Proje Fiyatı </label>
+                    <input type="text" class="form-control" name="Price" id="exampleInputEmail3" placeholder="Proje Fiyatı">
+                    @Html.ValidationMessageFor(x=>x.Price)
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Tamamlanma Oranı</label>
+                    <input type="text" class="form-control" name="Value" id="exampleInputEmail3" placeholder="Tamamlanma Oranı">
+                    @Html.ValidationMessageFor(x=>x.Value)
+                </div>
+
+                <button class="btn btn-primary mr-2">Ekle</button>
+
+            </form>
+
+        </div>
+    </div>
+</div>

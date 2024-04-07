@@ -1,0 +1,40 @@
+﻿@model Core_Proje.Areas.Writer.Models.UserEditViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_WriteLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Profil Bilgilerini Düzenle</h4>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputName1">Adınız</label>
+                    <input type="text" asp-for="Name" value="@Model.Name" class="form-control" id="exampleInputName1" placeholder="adınız">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Soyadınız</label>
+                    <input type="text" asp-for="Surname" value="@Model.Surname" class="form-control" id="exampleInputName1" placeholder="soyadınız">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Sifreniz</label>
+                    <input type="password" asp-for="Password" class="form-control" id="exampleInputName1" placeholder="sifreniz">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Sifre Tekrar</label>
+                    <input type="password" asp-for="PasswordConfirm" class="form-control" id="exampleInputName1" placeholder="sifrenizi tekrar giriniz">
+                </div>
+
+                <div class="form-group">
+                    <label>Resim Yükle</label><br />
+                    <input type="file" asp-for="Picture" >
+                    <br />
+                </div>
+
+                <button type="submit" class="btn btn-outline-warning mr-2">Güncelle</button>
+
+            </form>
+        </div>
+    </div>
+</div>

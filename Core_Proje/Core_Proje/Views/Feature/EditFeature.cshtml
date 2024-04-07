@@ -1,0 +1,41 @@
+﻿@model EntityLayer.Concrete.Feature
+
+@{
+    ViewData["Title"] = "EditFeature";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("EditFeature", "Feature", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <h3 class="card-title">Öne Çıkan Yazı Güncelleme Sayfası</h3>
+
+                <form class="form-group" method="post">
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Feature Id</label>
+                        @Html.HiddenFor(x=> x.FeatureID,new{@class="form-control" })
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Giris Kelimesi</label>
+                        @Html.TextBoxFor(x => x.Name,new{@class="form-control"})
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Başlık</label>
+                        @Html.TextBoxFor(x => x.Title,new{@class="form-control"})
+                    </div>
+
+                    <button class="btn btn-outline-success mr-2">Güncelle</button>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+}

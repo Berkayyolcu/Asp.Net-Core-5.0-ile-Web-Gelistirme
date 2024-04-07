@@ -1,0 +1,67 @@
+﻿@model EntityLayer.Concrete.Portfolio
+
+@{
+    ViewData["Title"] = "EditPortfolio";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("EditPortfolio", "Portfolio", FormMethod.Post))
+{
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <h3 class="card-title">Proje Düzenleme Sayfası</h3>
+
+                <form class="form-group" method="post">
+
+                    <div class="form-group">
+                        @Html.HiddenFor(x=> x.PortfolioID,new{@class="form-control" })
+
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Proje Adı</label>
+                        @Html.TextBoxFor(x => x.Name,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.Name)
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputName1">Resim Linki 1</label>
+                        @Html.TextBoxFor(x => x.ImageUrl,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.ImageUrl)
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Resim Linki 2 </label>
+                        @Html.TextBoxFor(x => x.ImageUrl2,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.ImageUrl2)
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Proje Linki </label>
+                        @Html.TextBoxFor(x => x.ProjeUrl,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.ProjeUrl)
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Proje Fiyatı </label>
+                        @Html.TextBoxFor(x => x.Price,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.Price)
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleInputEmail3">Tamamlanma Oranı </label>
+                        @Html.TextBoxFor(x => x.Value,new{@class="form-control"})
+                        @Html.ValidationMessageFor(x=>x.Value)
+                    </div>
+
+                    <button class="btn btn-outline-success mr-2">Güncelle</button>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+}

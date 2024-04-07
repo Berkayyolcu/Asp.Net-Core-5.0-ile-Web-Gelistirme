@@ -1,0 +1,47 @@
+﻿@using EntityLayer.Concrete
+@model List<Feature>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Öne Çıkan Yazı</h4>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Header</th>
+                            <th>Name</th>
+                            <th>Baslık</th>
+                            <th>Sil</th>
+                            <th>Düzenle</th>
+                        </tr>
+                    </thead>
+                    @foreach (var item in Model)
+                    {
+                        <tbody>
+
+                            <tr>
+                                <td>@item.FeatureID</td>
+                                <td>@item.Header</td>
+                                <td>@item.Name</td>
+                                <td>@item.Title</td>
+
+                                <td><a href="/Feature/DeleteFeature/@item.FeatureID" class="btn btn-outline-danger">Sil</a></td>
+                                <td><a href="/Feature/EditFeature/@item.FeatureID" class="btn btn-outline-success">Güncelle</a></td>
+                            </tr>
+
+                        </tbody>
+                    }
+                </table>
+                <a href="/Feature/AddFeature/" class="btn btn-outline-primary">Öne Çıkan Yazı Ekle</a>
+            </div>
+        </div>
+    </div>
+</div>

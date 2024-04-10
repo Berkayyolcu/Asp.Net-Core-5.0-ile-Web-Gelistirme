@@ -6967,11 +6967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Byolcu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Byolcu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5DwXUBHrSiYgshsbF/zhqVUImji1SmUWfsXWKBw3BRvZHcdc7BocG5bQfbcLM70eNsTJxf9ev8jferxwWl/tg==",
+  "dgSpecHash": "7jFZD8NDE/g3Xrq5w8jQcc3oADY3HPG00ToX3yynW+A+pe7YEzKlM+Ps0DSav17MrjM6V4psFpvdl1bNcM1NxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Byolcu\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Byolcu\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

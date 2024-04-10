@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lwthFZDNhnr+oU3SMOSGQk38XurU3AI+wnpbjsIpTFmDtRtm4loZ0H0My7C1sSJdFGTKilN+HYKSvaVSmrz5A==",
+  "dgSpecHash": "ZrLWXdADtUrtMLE0wj++t/vtkSTVbFL5cmECsRRUYC+LAkYRucq6XGawjzT3DbKIQfXaT8gaP6a+G/wiWRncmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+  "projectFilePath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Byolcu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Byolcu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

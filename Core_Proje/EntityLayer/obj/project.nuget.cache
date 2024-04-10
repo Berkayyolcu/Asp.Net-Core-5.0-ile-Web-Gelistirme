@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7hJJBJ+t9kw0e3IXxsfPp/zGETghbewXrfy9In724+Q2gwkUubfusLxASez1pqcRTOxnEz2Ms2NqHZGJJXOEXw==",
+  "dgSpecHash": "gmqTEeasHX0YK2gJf4/qVh6IPaHld8RGBWttPVhHDwnxNkLusJA5/7Hg8fcPlznk6Jwj7N+ASGGhqPvu19ZObw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Byolcu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Byolcu\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

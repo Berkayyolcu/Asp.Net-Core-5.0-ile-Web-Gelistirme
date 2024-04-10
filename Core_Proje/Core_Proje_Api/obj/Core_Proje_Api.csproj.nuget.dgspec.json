@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj": {}
+    "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj": {
+    "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+        "projectUniqueName": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
         "projectName": "Core_Proje_Api",
-        "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
+        "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\Core_Proje_Api.csproj",
         "packagesPath": "C:\\Users\\Byolcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje_Api\\obj\\",
+        "outputPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje_Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Byolcu\\AppData\\Roaming\\NuGet\\NuGet.Config",

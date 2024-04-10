@@ -10018,11 +10018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+      "projectUniqueName": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
       "projectName": "Core_Proje",
-      "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
+      "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje\\Core_Proje.csproj",
       "packagesPath": "C:\\Users\\Byolcu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\Core_Proje\\obj\\",
+      "outputPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\Core_Proje\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Byolcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10039,14 +10039,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\DataAccesLayer\\DataAccesLayer.csproj": {
-              "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\DataAccesLayer\\DataAccesLayer.csproj"
+            "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\DataAccesLayer\\DataAccesLayer.csproj": {
+              "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\DataAccesLayer\\DataAccesLayer.csproj"
             },
-            "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Byolcu\\source\\repos\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Byolcu\\Desktop\\Github Uploads\\Asp.Net-Core-5.0-ile-Web-Gelistirme\\Core_Proje\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

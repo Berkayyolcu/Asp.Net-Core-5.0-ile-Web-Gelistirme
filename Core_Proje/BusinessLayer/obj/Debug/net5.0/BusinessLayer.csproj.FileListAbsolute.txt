@@ -18,3 +18,24 @@ C:\Users\Byolcu\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\Bu
 C:\Users\Byolcu\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
 C:\Users\Byolcu\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\Byolcu\source\repos\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccesLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\DataAccesLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.sourcelink.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll

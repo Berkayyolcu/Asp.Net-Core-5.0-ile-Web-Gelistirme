@@ -13,3 +13,19 @@ C:\Users\Byolcu\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\Enti
 C:\Users\Byolcu\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\Byolcu\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
 C:\Users\Byolcu\source\repos\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.sourcelink.json
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Byolcu\Desktop\Github Uploads\Asp.Net-Core-5.0-ile-Web-Gelistirme\Core_Proje\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
